@@ -1,0 +1,29 @@
+{
+  "name": "week13-friendfinder",
+  "version": "1.0.0",
+  "description": "friendfinder app for Rutgers Coding Bootcamp",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "path": "0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rso136/Week13-FriendFinder.git"
+  },
+  "engines": {
+    "node": "6.2.2"
+  },
+  "author": "Richard Oh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rso136/Week13-FriendFinder/issues"
+  },
+  "homepage": "https://github.com/rso136/Week13-FriendFinder#readme"
+}
